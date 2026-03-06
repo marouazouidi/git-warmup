@@ -1,4 +1,4 @@
-I prefer Node.js for the backend
+I prefer Node for the backend
 Name: Maroua Zouidi  
 IT Professional - Morocco
 
